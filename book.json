@@ -1,5 +1,7 @@
 {
-    "structure": {
-        "readme": "chapter0.md"
-    }
+  "structure": {
+    "readme": "chapter0.md"
+  },
+  "title": "Basic HTML",
+  "description": "HTML Tutorial for LPSS students"
 }
