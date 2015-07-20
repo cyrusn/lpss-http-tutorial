@@ -80,5 +80,5 @@ P:/
 ![list02][list02]
 
 
-[list01]: image/list01.png "picture of list 1"
-[list02]: image/list02.png "picture of list 2"
+[list01]: image/list01.png "picture of school webpage"
+[list02]: image/list02.png "picture of your homework"
