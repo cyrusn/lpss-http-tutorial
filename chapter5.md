@@ -18,7 +18,7 @@ P:/
     ├── basic.html
     ├── heading.html
     ├── list.html
-    ├── table.html
+    ├── .table.html
     └── link.html
 ```
 
