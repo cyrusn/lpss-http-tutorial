@@ -2,7 +2,7 @@
 ## 有序列表 ordered lists
 以下為有序列表的例子及其標籤碼：
 
-![](2.png)
+![](image/2.png)
 
 ```html
 <ol>
@@ -15,7 +15,7 @@
 ## 無序列表 unordered lists
 以下為無序列表的例子及其標籤碼：
 
-![](3.png)
+![](image/3.png)
 
 ```html
 <ul>
@@ -28,7 +28,7 @@
 ## 自定義列表 Description Lists
 以下為自定義列表的例子及其標籤碼：
 
-![](4.png)
+![](image/4.png)
 
 ```html
 <dl>
@@ -42,7 +42,7 @@
 ## 嵌套组合列表 Nested Lists
 以下為嵌套组合列表的例子及其標籤碼：
 
-![](6.png)
+![](image/6.png)
 
 ```html
 <ol>
@@ -74,7 +74,11 @@ P:/
 ```
 
 學校網頁：
-![list01](image/list01.png)
+![list01][list01]
 
 堂課結果：
-![list02](image/list02.png)
+![list02][list02]
+
+
+[list01]: image/list01.png "picture of list 1"
+[list02]: image/list02.png "picture of list 2"
