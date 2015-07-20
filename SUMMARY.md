@@ -1,6 +1,5 @@
 # Summary
 
-* [Introduction](README.md)
 * [Chapter 1 | HTML基本的結構](chapter1.md)
 * [Chapter 2 | 插入圖像](chapter2.md)
 * [Chapter 3 | 列表](chapter3.md)
