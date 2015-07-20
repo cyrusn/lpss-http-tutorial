@@ -5,7 +5,7 @@
 - HTML文件是一個文本文件，含了一些HTML元素，簽等.HTML文件必須使用html或htm為文件後綴名
 - HTML是大小寫不敏感的，HTML與html是一樣的。
 
-
+![](Penguins.jpg)
 ## 堂課0:
 
 ``` html
