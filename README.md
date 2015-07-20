@@ -2,7 +2,7 @@
 
 #預備工作
 
-開啟文字編輯 caret ![](Koala.jpg)
+開啟文字編輯 caret
 
 利用文字編輯器於 p:/html 內建立 basic.html
 
