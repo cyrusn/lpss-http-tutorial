@@ -18,7 +18,7 @@ P:/
     ├── basic.html
     ├── heading.html
     ├── list.html
-    ├── .table.html
+    ├── table.html
     └── link.html
 ```
 
@@ -28,3 +28,9 @@ P:/
 堂課結果：
 ![link02](./image/link02.png)
 
+#堂課步驟
+1. 先到學校網頁中的**中一自行分配學位**按「下載報名表」:
+
+![](7.png)
+
+2. 然後把
