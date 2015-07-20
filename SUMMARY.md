@@ -2,7 +2,6 @@
 
 * [Chapter 1 | how to use caret](chapter0.md)
 * [Chapter 2 | HTML基本的結構](chapter1.md)
-    * [Chapter 2.1 | More Example](chapter2-1.md)  
 * [Chapter 3 | 插入圖像](chapter2.md)
 * [Chapter 4 | 列表](chapter3.md)
 * [Chapter 5 | 表格](chapter4.md)
