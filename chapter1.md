@@ -3,7 +3,7 @@
 - HTML是Hypertext Markup Language的英文縮寫，即超文本標記語言
 - HTML語言是一種標記語言，需要編譯，接由瀏覽器執行
 - HTML文件是一個文本文件，含了一些HTML元素，簽等.HTML文件必須使用html或htm為文件後綴名
-- HTML是大小寫不敏感的，HTML與html是一樣的
+- HTML是大小寫不敏感的，HTML與html是一樣的。
 
 
 ## 堂課0:
