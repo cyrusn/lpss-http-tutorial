@@ -9,7 +9,7 @@
 <a href="http://liping.edu.hk">按此進入LPSS網站</a>
 ```
 
-## 堂課四
+## 堂課1
 
 仿照學校網頁中**中一自行分配學位**，製作一個`html`文本，文本名稱為`link.html`。
 
@@ -26,9 +26,6 @@ P:/
 學校網頁：
 ![link01](./image/link01.png)
 
-堂課結果：
-![link02](./image/link02.png)
-
 ####堂課步驟提示
 一. 先到學校網頁中的**中一自行分配學位**按「下載報名表」:
 
@@ -39,3 +36,7 @@ P:/
 
 三. 把已複製的連結貼在你製作的`link.html`中:
 ![](./image/Link2.png)
+
+堂課結果：
+![link02](./image/link02.png)
+
