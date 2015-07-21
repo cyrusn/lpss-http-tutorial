@@ -65,8 +65,9 @@ P:/
 ```
 
 ***顯示3*** 同學放置的檔案應如下:
-![](iframe06.png)
+
+![](./image/iframe06.png)
 
 在```<iframe src="......."></iframe>```中的適當位置填上音頻檔案全名(包括副檔名```.mp3```)，完成此堂課得出以下的結果:
 
-![](iframe07.png)
+![](./image/iframe07.png)
