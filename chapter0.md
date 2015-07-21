@@ -40,8 +40,11 @@
 - 步驟7
 
 再按其標誌就可開啟
+
 ![](./image/caret7.png)
 
 - 步驟8
 
-開啟後就可輸入html碼
+開啟後就可輸入html碼。
+
+![](./image/caret8.png)
