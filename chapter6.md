@@ -6,7 +6,7 @@ Google Map、YouTube、facebook 還有很多網頁都設有嵌入工具。
 ```html
 <iframe src="......."></iframe>
 ```
-## 堂課五
+## 堂課1
 
 仿照學校網頁中**聯絡我們**，製作一個`html`文本，文本名稱為`iframe.html`。
 
@@ -30,7 +30,7 @@ P:/
 堂課結果：
 ![iframe02](./image/iframe02.png)
 
-##堂課六
+##堂課2
 
 同學製作一個`html`文本，用以嵌入影片於網頁，文本名稱為`iframe2.html`。
 
@@ -53,7 +53,7 @@ P:/
 
 ![](./image/iframe05.png)
 
-##堂課七
+##堂課3
 
 同學製作一個`html`文本，用以嵌入音頻檔案於網頁，文本名稱為`iframe3.html`，而老師提供的音頻檔名稱是`Kalimba.mp3`。
 
