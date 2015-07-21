@@ -38,3 +38,7 @@
 ![](./image/caret6.png)
 
 - 步驟7
+
+![](./image/caret7.png)
+
+- 步驟8
