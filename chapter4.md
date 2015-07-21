@@ -27,23 +27,15 @@
 
 # 表格框線 border
 為了讓表格內容更清晰表達出來，我們可為表格加上框線。
-以下新增了框線的表格標籤碼：
+於`<head>` `</head>` 標籤之間加入以下程式碼
 
-```html
-<table>
-  <tr>
-    <th>標題一</th>
-    <th>標題二</th>
-  </tr>
-  <tr>
-    <td>F5A</td>
-    <td>F5B</td>
-  </tr>
-  <tr>
-    <td>F5C</td>
-    <td>F5D</td>
-  </tr>
-</table>
+
+```css
+  <style>
+    table, th, td {
+        border: 1px solid black;
+    }
+  </style>
 ```
 
 合拼行 / 列
