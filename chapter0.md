@@ -31,7 +31,10 @@
 ![](./image/caret5.png)
 
 - 步驟6
+ 
 
+按「新增」。
 
+![](./image/caret6.png)
 
-- 
+- 步驟7
