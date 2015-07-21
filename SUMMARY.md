@@ -1,6 +1,6 @@
 # Summary
 
-* [Chapter 1 | how to use caret](chapter0.md)
+* [Chapter 1 | 如何安裝及開啟caret](chapter0.md)
 * [Chapter 2 | HTML基本的結構](chapter1.md)
 * [Chapter 3 | 插入圖像](chapter2.md)
 * [Chapter 4 | 列表](chapter3.md)
