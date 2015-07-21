@@ -54,6 +54,8 @@
 
 如需把標題置中，可加入以下的標籤碼:
 
-```<h1 align = center> ```
+```<h1 align = center> </h1> ```
+
+####注意: 別把center誤串成centre!
 
 ![](basic05.png)
