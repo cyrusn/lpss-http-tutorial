@@ -82,6 +82,11 @@ P:/
     ├── list.html
     └── table.html
 ```
+提示：
+1. 回到 Chapter2, 複製 堂課0 的html程式碼。
+2. 在`<head>` `</head>`之間複製有關網頁風格的程式碼。
+3. 製作表格的程式碼則可參考本課第一段清晰碼。
+
 
 學校網頁：
 ![table01](./image/table01.png)
