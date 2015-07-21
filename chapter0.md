@@ -15,11 +15,17 @@
 - 步驟3
 
 然後按「取得更多擴充功能」，如下所示:
+
 ![](./image/caret3.png)
 
 - 步驟4
 
-在搜尋的方塊中輸入caret，如下:
+在搜尋的方塊中輸入caret，然後按「Enter」，如下:
+
 ![](./image/caret4.png)
 
 - 步驟5
+
+然後選擇「Caret-T」，再按「加到Chrome」:
+
+![](caret5.png)
