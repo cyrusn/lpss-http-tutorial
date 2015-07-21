@@ -28,4 +28,7 @@
 
 然後選擇「Caret-T」，再按「加到Chrome」:
 
-![](caret5.png)
+![](./image/caret5.png)
+
+- 步驟6
+- 
