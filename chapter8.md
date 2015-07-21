@@ -22,6 +22,13 @@
 
 
 
+- 步驟4
+ 
+進入「public_html」後，點擊右上方的「上載」。
+![](./image/upload05.png)
+
+
+
 # 其他工具
 - FTP (FileZilla)
 
