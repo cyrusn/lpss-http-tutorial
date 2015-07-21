@@ -26,7 +26,7 @@
 
 - 步驟5
 
-然後選擇「Caret-T」，再按「加到Chrome」:
+然後選擇「Caret-T」或「Caret」，再按「加到Chrome」:
 
 ![](./image/caret5.png)
 
@@ -39,6 +39,9 @@
 
 - 步驟7
 
+再按其標誌就可開啟
 ![](./image/caret7.png)
 
 - 步驟8
+
+開啟後就可輸入html碼
