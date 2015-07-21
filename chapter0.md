@@ -5,10 +5,10 @@
 - 步驟1
 
 先開啟Chrome瀏覽器，然後按右上的「自訂及管理」。
-![](caret1.png)
+![](./image/caret1.png)
 
 - 步驟2
 
-![](caret2.png)
+![](./image/caret2.png)
 
 - 步驟3
