@@ -17,14 +17,14 @@
 
 - 步驟3
  
-進入「我的文件」夾後，點擊「public_html」。
+點擊「public_html」。
 ![](./image/upload04.png)
 
 
 
 - 步驟4
  
-進入「public_html」後，點擊右上方的「上載」。
+點擊右上方的「上載」。
 ![](./image/upload05.png)
 
 
