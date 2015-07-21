@@ -48,7 +48,7 @@
 
 ```<body bgcolor = yellow>```
 
-![](basic03.png)
+![](./image/basic03.png)
 
 ##堂課4:
 
@@ -58,10 +58,10 @@
 
 ####注意: 別把center誤串成centre!
 
-![](basic05.png)
+![](./image/basic05.png)
 
 除了置中，亦可把整段文字或標題置右或置左，而所使用的標籤碼串法分別是 `right` 及 `left`，如下圖:
 
-![](basic06.png)
+![](./image/basic06.png)
 
 
