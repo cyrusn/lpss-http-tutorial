@@ -5,7 +5,7 @@
 例子：
 
 ``` html
-<a href="http://liping.edu.hk">LPSS</a>
+<a href="http://liping.edu.hk">按此進入LPSS網站</a>
 ```
 
 ## 堂課四
