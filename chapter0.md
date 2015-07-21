@@ -20,5 +20,6 @@
 - 步驟4
 
 在搜尋的方塊中輸入caret，如下:
-![](caret4.png)
+![](./image/caret4.png)
+
 - 步驟5
