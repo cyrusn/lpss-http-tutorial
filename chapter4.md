@@ -34,11 +34,19 @@
   <style>
     table, th, td {
         border: 1px solid black;
+        border-collapse:collapse;
     }
   </style>
 ```
+程式碼的意思大致如下：
 
-合拼行 / 列
+```<網頁風格>
+    表格,行,列,{
+        框線：1厚度,實線,黑色;
+        框線合併;}
+</網頁風格>```
+
+#合拼行 / 列
 - 同學可利用屬性`colspan`合拼列
 - 同學可利用屬性`rowspan`合拼行
 
