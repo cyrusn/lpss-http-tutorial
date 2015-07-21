@@ -8,7 +8,7 @@ Google Map、YouTube、facebook 還有很多網頁都設有嵌入工具。
 ```
 ## 堂課五
 
-仿照學校網頁中**聯絡我們**，制作一個`html`文本，文本名稱為`iframe.html`。
+仿照學校網頁中**聯絡我們**，製作一個`html`文本，文本名稱為`iframe.html`。
 
 ``` txt
 P:/
@@ -30,3 +30,20 @@ P:/
 堂課結果：
 ![iframe02](./image/iframe02.png)
 
+##堂課六
+同學製作一個`html`文本，用以嵌入影片於網頁，文本名稱為`iframe2.html`。
+
+``` txt
+P:/
+└── html
+    ├── basic.html
+    ├── heading.html
+    ├── list.html
+    ├── table.html
+    ├── link.html
+    └── iframe2.html
+```
+
+***顯示2*** 同學於youtube中搜尋學校名稱，然後選擇搜尋結果中的其中一段影片，再找嵌入影片的連結
+
+![](iframe04.png)
