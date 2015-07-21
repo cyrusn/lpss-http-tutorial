@@ -49,4 +49,11 @@
 ```<body bgcolor = yellow>```
 
 ![](basic03.png)
-  
+
+##堂課3:
+
+如需把標題置中，可加入以下的標籤碼:
+
+```<h1 align = center> ```
+
+![](basic05.png)
