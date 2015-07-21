@@ -31,6 +31,7 @@ P:/
 ![iframe02](./image/iframe02.png)
 
 ##堂課六
+
 同學製作一個`html`文本，用以嵌入影片於網頁，文本名稱為`iframe2.html`。
 
 ``` txt
@@ -51,3 +52,20 @@ P:/
 利用以上的嵌入影片連結，在`iframe2.html`完成此堂課得出以下結果:
 
 ![](./image/iframe05.png)
+
+##堂課七
+
+同學製作一個`html`文本，用以嵌入音頻檔案於網頁，文本名稱為`iframe3.html`，而老師提供的音頻檔名稱是`Kalimba.mp3`。
+
+``` txt
+P:/
+└── html
+    ├── Kalimba.mp3
+    └── iframe3.html
+```
+
+***顯示3*** 同學放置的檔案應如下:
+
+
+在```<iframe src="......."></iframe>```中的適當位置填上音頻檔案全名(包括副檔名```.mp3```)，得出以下的結果:
+
