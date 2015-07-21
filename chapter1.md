@@ -46,4 +46,4 @@
 ## 堂課2:
 在 `basic.html`中可以加入背景底色，以下是其標籤碼及圖示:
 
-```<body> 
+```<body bgcolor = yellow>```
