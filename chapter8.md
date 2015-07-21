@@ -8,37 +8,37 @@
 # 上載步驟
 - 步驟1
  
-同學首先登入學校內聯網。
+    同學首先登入學校內聯網。
 
 - 步驟2
  
-登入學校內聯網後，同學按右上的「我的文件夾」。
+    登入學校內聯網後，同學按右上的「我的文件夾」。
 ![](./image/upload03.png)
 
 - 步驟3
  
-點擊「public_html」。
+    點擊「public_html」。
 ![](./image/upload04.png)
 
 
 - 步驟4
  
-點擊右上方的「上載」。
+    點擊右上方的「上載」。
 ![](./image/upload05.png)
 
 - 步驟5
  
-點擊「選擇檔案」。
+    點擊「選擇檔案」。
 ![](./image/upload06.png)
 
 - 步驟6
  
-選擇所有需要上載的 html 文件並上載至此文件夾。
+    選擇所有需要上載的 html 文件並上載至此文件夾。
 
 
 - 步驟7
  
-利用瀏覽器檢查網頁是否成功上載。
+    利用瀏覽器檢查網頁是否成功上載。
     - 網址：http://eclass.liping.edu.hk/~lp_your_id/file_name
     - 例子：http://eclass.liping.edu.hk/~lp0711999/basic.html
 
