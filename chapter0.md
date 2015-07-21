@@ -1,4 +1,4 @@
-# How to use caret
+# caret
 
 - step 1
 - step 2
