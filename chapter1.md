@@ -47,4 +47,6 @@
 在 `basic.html`中可以加入背景底色，以下是其標籤碼及圖示:
 
 ```<body bgcolor = yellow>```
+
+![](basic03.png)
   
