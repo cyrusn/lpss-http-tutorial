@@ -47,6 +47,8 @@ P:/
 
 提示：
 1. 回到 Chapter2, 複製 堂課0 的 html 程式碼。
-2. 製作表格的程式碼則可參考本課第一段程式碼。
+2. 回到 Chapter6, 複製 例子 的 html 程式碼。
+3. 
+3. 
 
 ![index01](./image/index01.png)
