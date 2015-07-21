@@ -43,7 +43,7 @@
     - 例子：`http://eclass.liping.edu.hk/~lp0711999/basic.html`
 
 
-# 其他工具
+# 其他上載工具
 - FTP (FileZilla)
 
 
