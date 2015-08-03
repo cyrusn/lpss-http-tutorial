@@ -47,9 +47,9 @@
 
 ``` html
 <head>
-<style>
+    <style>
 
-</style>
+    </style>
 </head>
 ```
 
