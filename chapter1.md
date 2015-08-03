@@ -72,16 +72,18 @@
 如需把標題置中，可在`<style>`與`</style>`之間加入標題的屬性，如下所示:
 
 ``` html
-<head>
-<style>
-    h1 {
-        text-align: center;
-      } 
-</style>
-</head>
-<body>
-    <h1>我的網頁</h1>
-</body>
+<html>
+    <head>
+        <style>
+            h1 {
+                text-align: center;
+            } 
+        </style>
+    </head>
+    <body>
+        <h1>我的網頁</h1>
+    </body>
+</html>
 ```
 
 ####注意: 別把center誤串成centre!
