@@ -75,6 +75,7 @@
 ``` html
 <html>
     <head>
+        <meta charset="utf8">
         <style>
             h1 {
                 text-align: center;
