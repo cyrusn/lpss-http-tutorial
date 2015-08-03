@@ -90,7 +90,7 @@
 
 ####注意: 別把center誤串成centre!
 
-![](./image/basic05.png)
+![](basic07.png)
 
 除了置中，亦可把整段文字或標題置右或置左，而所使用的標籤碼串法分別是 `right` 及 `left`，如下圖:
 
