@@ -59,6 +59,7 @@
 
 ``` html
 <head>
+    <meta charset="utf8">
     <style>
         background-color: yellow;
     </style>
